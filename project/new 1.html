@@ -1,0 +1,47 @@
+
+ <!DOCTYPE html> <html> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+ <meta name="viewport" content="width=device-width, initial-scale=1"> 
+ <title>JNTUA</title> <meta name="description" content="Jawaharlal Nehru Technological University Anantapur Online Original Degree Application System" />
+ <meta name="keywords" content="JNTUA,JNTU Anantapur,OD,originaldegree,convocation" /> 
+ <link rel="icon" href="images/favicon.png" sizes="16x16" type="image/png" /> 
+ <!-- jntuacss --> <link rel="stylesheet" type="text/css" href="css/jntuacss.min.css" /> 
+ <!--[if lt IE 9]> <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+ <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script> <![endif]-->
+ <style type="text/css">  html { position: relative; min-height: 100%; } body { margin-bottom: 60px; background-color: #F5F3EE; }  .doprint{ display: none; }  @media print {  .dontprint { display: none !important; }  .doprint { display: block !important; } }  .footer { position: absolute; bottom: 0; width: 100%; height: 60px; background-color: #f5f5f5; }  .container .text-muted { margin: 20px 0; }  .labelapply3{ padding-top: 1px !important; } .myh1{ font-size:1.3em;} .myh2{ font-size:1.1em;}  @media(min-width: 768px){ .rit{ text-align: right; } .myh1{ font-size:1.6em;} .myh2{ font-size:1.3em;} } </style> </head> <body> <!-- Fixed navbar --> <nav class="navbar navbar-default navbar-static-top" style=" background-color: skyblue; "> <div class="container"> <div class="row" style=" padding-top:5px;"> <div class="col-xs-12 col-sm-1 rit"><img src="images/jntua.png" alt="JNTUA" width="60px" height="70px" /> </div> <div class="col-xs-12 col-sm-5"> <span class="text-primary myh1">JNTUA</span><span class="text-primary myh2">, ANANTHAPURAMU</span><br /> <span class="text-primary myh1">University Examinations Branch</span> </div> <div class="col-xs-12 col-sm-6 rit" >  <span class="text-success myh1"><br>Online OD Application</span> </div> </div>  </div> </nav> 
+  <div class="container">
+  <!--  <div class="alert alert-success">
+      <strong>Success!</strong> Checking file success alert
+    </div>
+-->
+        <div class="panel panel-info">
+          <div class="panel-heading">
+
+            <div class="row">
+                <div class="col-md-5"><a href="./" class="btn btn-primary btn-md">Home</a></div><div class="col-md-7"><h4>Online OD Application</h4></div>
+            </div>
+          </div>
+          <div class="panel-body">
+            <form class="form-horizontal" role="form" action="./applyodstep2.html" method="post" enctype="multipart/form-data">
+              <div class="form-group">
+                <label for="inputHtno" class="col-sm-4 control-label">Hall Ticket No</label>
+                <div class="col-sm-4">
+                  <input type="text" class="form-control" name="htno" id="inputHtno"
+                    placeholder="Hall Ticket Number" pattern="[a-zA-Z0-9]{7,10}" required="required" title="Only Alphabets, digits are allowed with 10 characters" required="required" maxlength="10" />
+                    <input type="hidden" name="app_no" value="26140" />
+                </div>
+                <div class="col-sm-4">&nbsp;
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="col-sm-offset-7 col-sm-5">
+                  <button type="submit" class="btn btn-default">Proceed</button>
+                </div>
+              </div>
+
+            </form>
+          </div>
+        </div>
+  </div>
+<div class="footer">  <div class="container dontprint">  <div class="row">  <div class="col-sm-6"><br/> 
+ <span class="text-success">&copy; Copyright JNTUA - All&nbsp;rights&nbsp;reserved. | <a href="terms.html">Terms&nbsp;&&nbsp;Conditions</a></span> </div> <div class="col-sm-6" align="right"><br/>  <span class="text-success">Powered by</span> <span class="text-primary">Dr.&nbsp;A.&nbsp;Sureshbabu, ACE-1 & K.&nbsp;Anil&nbsp;Kumar, JNTUA, ATP</span>  		</div>  	</div>  </div>  </div>  </body>  </html>  

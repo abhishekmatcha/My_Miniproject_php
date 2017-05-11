@@ -1,0 +1,429 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-decoration-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"col",
+				"container-fluid"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"col-m",
+				"col-md-1"
+			],
+			[
+				"c",
+				"col-md-1"
+			],
+			[
+				"co",
+				"col-lg-2"
+			],
+			[
+				"col-",
+				"col-md-1"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"NU",
+				"number"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"AUT",
+				"autofocus\tAttr"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"an",
+				"anesthesia_notes"
+			],
+			[
+				"doc",
+				"doctor_notes"
+			],
+			[
+				"cl",
+				"clinical_findings"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"b",
+				"body\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"l",
+				"legend\tTag"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fn",
+				"font"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"P",
+				"Patientname"
+			],
+			[
+				"user",
+				"Username"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/kakarla/casesheet.php",
+		"/C/xampp/htdocs/irctc/journeylist.php",
+		"/C/xampp/htdocs/irctc/btwn stations.php",
+		"/C/Users/VINAYA/Desktop/tejhtml/top.html",
+		"/C/Users/VINAYA/Desktop/wpproject.html",
+		"/C/Users/VINAYA/Desktop/New Folder/v1.html",
+		"/C/Users/VINAYA/Desktop/New Folder/v2.html",
+		"/C/Users/VINAYA/Desktop/New Folder/wp.html",
+		"/C/xampp/htdocs/kakarla/insert.php",
+		"/C/xampp/htdocs/CaseSheet.php",
+		"/C/xampp/htdocs/irctc/reInd/journey details.php",
+		"/C/xampp/htdocs/irctc/reInd/passengerdetails.php",
+		"/C/xampp/htdocs/irctc/reInd/btwn stations.php",
+		"/C/xampp/htdocs/select table/index1.php",
+		"/C/xampp/htdocs/irctc/reInd/journeylist.php",
+		"/C/xampp/htdocs/irctc/reInd/reind (1).sql",
+		"/C/xampp/htdocs/irctc/reInd/random.php",
+		"/C/xampp/htdocs/irctc/reInd/ran.php",
+		"/C/xampp/htdocs/irctc/reInd/journet details.php",
+		"/C/xampp/htdocs/kakarla/index.php",
+		"/C/xampp/htdocs/kakarla/login_chck.php",
+		"/C/xampp/htdocs/kakarla/login.php",
+		"/C/xampp/htdocs/kakarla/inser.php",
+		"/C/xampp/htdocs/kakarla hospital app/Registration.php",
+		"/C/xampp/htdocs/kakarla hospital app/ran.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/kakarla hospital app/login.php",
+		"/C/xampp/htdocs/kakarla hospital app/loginran.php",
+		"/C/xampp/htdocs/kakarla hospital app/index.php",
+		"/C/xampp/htdocs/kakarla hospital app/imageupload.php",
+		"/C/xampp/htdocs/kakarla hospital app/tabledisplay.php",
+		"/C/xampp/htdocs/kakarla hospital app/createnewappointment.php",
+		"/C/xampp/htdocs/kakarla hospital app/new appoint table.sql",
+		"/C/xampp/htdocs/kakarla hospital app/table display.php",
+		"/C/xampp/htdocs/kakarla hospital app/table display of new appointment.php",
+		"/C/xampp/htdocs/kakarla hospital app/Logout.php",
+		"/C/xampp/htdocs/kakarla hospital app/Appointments.php",
+		"/C/xampp/htdocs/kakarla hospital app/Dashboard.php",
+		"/C/xampp/htdocs/select table/index.php",
+		"/C/xampp/htdocs/IRTC/login.php",
+		"/C/xampp/htdocs/irctc/reInd/faredetails.php",
+		"/C/xampp/htdocs/irctc/reInd/index.php",
+		"/C/xampp/htdocs/irctc/reInd/booknow.php",
+		"/C/xampp/htdocs/irctc/reInd/checkotp.php",
+		"/C/xampp/htdocs/irctc/reInd/otpconfirmation.php",
+		"/C/xampp/htdocs/RebuildIndia/reInd/join-reind.php",
+		"/C/xampp/htdocs/RebuildIndia/reInd/random.php",
+		"/C/xampp/htdocs/IRTC/random.php",
+		"/C/xampp/htdocs/RebuildIndia/reInd/checkotp.php",
+		"/C/xampp/htdocs/kakarla hospital app/kakarla.sql",
+		"/C/xampp/htdocs/IRTC/checkotp.php",
+		"/C/xampp/htdocs/IRTC/irtc.sql",
+		"/C/xampp/htdocs/IRTC/ran.php",
+		"/C/xampp/htdocs/RebuildIndia/reInd/reind (1).sql",
+		"/C/xampp/htdocs/select table/table.sql",
+		"/C/xampp/htdocs/kakarla hospital app/changepassword.php",
+		"/C/xampp/htdocs/select table/table/insert.php",
+		"/C/xampp/htdocs/RebuildIndia/reInd/ran.php",
+		"/C/xampp/htdocs/kakarla hospital app/Settings.php",
+		"/C/xampp/htdocs/RebuildIndia/reInd/login.php",
+		"/C/xampp/htdocs/kakarla hospital app/uploadimage/uploadindex.php",
+		"/C/xampp/htdocs/RebuildIndia/reInd/reind-2.sql",
+		"/C/xampp/htdocs/RebuildIndia/reInd/reInd.zip",
+		"/C/xampp/htdocs/kakarla hospital app/upload-file-on-permanent-basis.php",
+		"/C/xampp/htdocs/uploadimage/uploadindex.php",
+		"/C/xampp/htdocs/kakarla hospital app/uploadimage/index.php",
+		"/C/xampp/htdocs/kakarla hospital app/uploadimage/get-details-of-uploaded-file.php",
+		"/C/xampp/htdocs/RebuildIndia/reInd/changepassword.php",
+		"/C/xampp/htdocs/RebuildIndia/reInd/welcome.php",
+		"/C/xampp/htdocs/reInd/index.php",
+		"/C/xampp/htdocs/kakarla hospital app/kakarlalogin.sql",
+		"/C/xampp/htdocs/kakarla hospital app/login.html",
+		"/C/xampp/htdocs/uploadimage/index.php",
+		"/F/binate/Arrays/array.php",
+		"/F/binate/Arrays/Associtative-Array.php",
+		"/F/binate/Arrays/Associtative-Array-Loop.php",
+		"/F/binate/Arrays/Combining-Arrays.php",
+		"/F/binate/Arrays/Difference_Arrays.php",
+		"/F/binate/Arrays/Difference_AssocArrays.php",
+		"/F/binate/Arrays/Index-Array.php",
+		"/F/binate/Arrays/Numerical-Array.php",
+		"/F/binate/Arrays/Sum_Array.php",
+		"/F/binate/Arrays/Subdividing-Array.php",
+		"/F/binate/Arrays/Slicing-Arrays.php",
+		"/F/binate/Arrays/Shuffling.php",
+		"/F/binate/Arrays/range.php",
+		"/F/binate/Arrays/Random.php",
+		"/F/binate/Arrays/MultiDimensional-Array.php",
+		"/F/binate/Arrays/Merging-Recursively.php",
+		"/F/binate/Arrays/Merging-Arrays.php",
+		"/F/binate/Arrays/Intersection_AssocArray.php",
+		"/F/binate/Arrays/Intersection_Array.php",
+		"/C/Users/VINAYA/Downloads/transparent_login_form-web_Free02-01-2017_780899285/web/index.html",
+		"/C/Users/VINAYA/Downloads/transparent_login_form-web_Free02-01-2017_780899285/web/booknow.php",
+		"/C/Users/VINAYA/Downloads/transparent_login_form-web_Free02-01-2017_780899285/web/journeylist.html",
+		"/C/Users/VINAYA/Desktop/index.html",
+		"/C/Users/VINAYA/Downloads/transparent_login_form-web_Free02-01-2017_780899285.zip",
+		"/C/xampp/htdocs/RebuildIndia/reInd/index.php",
+		"/C/Users/VINAYA/Desktop/details.html",
+		"/C/Users/VINAYA/Desktop/intern/www/index.html",
+		"/C/Users/VINAYA/Desktop/narayanadri.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "first.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

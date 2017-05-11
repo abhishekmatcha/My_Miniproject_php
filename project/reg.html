@@ -1,0 +1,41 @@
+
+<html>
+<head>
+<title>Application form
+</title>
+</head>
+<body  bgcolor="cream">
+<fieldset>
+<legend>ENTER YOUR DETAILS</legend>
+<form action="first.html"><input type="submit" value="HOME"></form>
+<form action="insert.php" align="center" method="POST">
+ HALLTICKET NO     :    <input type="text" name="hallticket"  size="8" required value="hallticket1" ></br></br>
+STUDENT NAME       :    <input type="text" name="name" required></br></br></br>
+FATHER'S NAME     :    <input type="text" name="fname" required></br></br></br>
+GENDER             :     <input type="radio" name="gender" value="male">Male</br>
+                         <input type="radio" name="gender" value="Female" required>Female</br>
+DOB:
+                 <input type="date" autocomplete="off"name="bday" required><br></br></br>
+COURSE            :<select name="course">
+                       <option value="B-tech">B-tech</option>
+					   <option value="PHD">PHD</option>
+					   <option value="M-tech">M-tech</option>
+					  <option value="DEGREE">DEGREE</option>
+					  </select>
+					   
+Branch            :  <select name="branch">
+                       <option value="IT">IT</option>
+					   <option value="CSE">cse</option>
+					   <option value="EEE">EEE</option>
+					  <option value="ECES">ECE</option>
+					  </select>
+    
+COLLEGE NAME     :    <input type="text" name="cname"></br></br></br>
+AMOUNT           :<input type="text" name="amount" value="2000" ></br></br></br>
+<input type="submit" value="Submit"></br></br>
+</fieldset> 
+
+</form>
+
+</body>
+</html>
